@@ -11,9 +11,9 @@ O projeto possui os seguintes arquivos: <br>
 
 # Como executar
 Para executar o programa, é necessário seguir os seguintes passos: <br>
-    1. Clone dos arquivos com "git clone <repositorio>" <br>
+    1. Clone dos arquivos com "git clone <repositorio.>" <br>
     2. javac Main.java <br>
-    3. java Main <núm. páginas> <lista de páginas> <algoritmo.> <br> <br>
+    3. java Main <núm. páginas> <lista. páginas> <algoritmo.> <br> <br>
 
 Algoritmos: <br>
     1 - FIFO <br>
