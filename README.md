@@ -13,7 +13,7 @@ O projeto possui os seguintes arquivos: <br>
 Para executar o programa, é necessário seguir os seguintes passos: <br>
     1. Clone dos arquivos com "git clone <repositorio>" <br>
     2. javac Main.java <br>
-    3. java Main <núm. páginas> <lista de páginas> <algoritmo escolhido> <br> <br>
+    3. java Main <núm. páginas> <lista de páginas> <algoritmo.> <br> <br>
 
 Algoritmos: <br>
     1 - FIFO <br>
@@ -25,7 +25,7 @@ Exemplo: <br>
     java Main 5 1,3,5,4,2,4,3,2,1,0,5,3,5,0,4,3,5,4,3,2,1,3,4,5 3 <br>
 
 # Grupo
-Gianluca Mariano Sobreiro        - RA: 22.122.011-4
-Guilherme Fornagiero de Carvalho - RA: 22.122.016-3
-Paulo Vinícius Bessa de Brito    - RA: 22.122.005-6
+Gianluca Mariano Sobreiro        - RA: 22.122.011-4 <br>
+Guilherme Fornagiero de Carvalho - RA: 22.122.016-3 <br>
+Paulo Vinícius Bessa de Brito    - RA: 22.122.005-6 <br>
 Pedro Augusto Bento Rocha        - RA: 22.122.028-8
