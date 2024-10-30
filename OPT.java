@@ -51,7 +51,7 @@ public class OPT {
 
                 System.out.println("Page: " + page + "\n");
                 for (int j = 0; j < currentQueue.length; j++) {
-                    if (j == lastPositionIndex)
+                    if (currentQueue[j] == page)
                         System.out.printf("[%d] <- (hit)\n", currentQueue[j]);
                     else
                         System.out.printf("[%d]\n", currentQueue[j]);
